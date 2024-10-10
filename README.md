@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Budha</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
+<img align='right' alt='gif' width='400'  src='https://media1.tenor.com/m/g68GcDz33nAAAAAd/toji-toji-fushiguro.gif'>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akash-magar12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
